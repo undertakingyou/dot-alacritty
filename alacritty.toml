@@ -3,7 +3,7 @@ import = [
 ]
 
 [font]
-normal = { family = "NotoMono Nerd Font", style="Regular" }
+normal = { family = "VictorMono Nerd Font", style="Regular" }
 size = 12
 
 [window]
